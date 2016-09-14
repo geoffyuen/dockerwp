@@ -4,7 +4,7 @@
 
 `docker-compose up`
 
-and then visit [http://localhost:8080](http://localhost:8080)
+and then visit [http://localhost:8000](http://localhost:8080)
 
 ## Reading
 
